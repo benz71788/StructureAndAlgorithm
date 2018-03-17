@@ -1,7 +1,8 @@
 package ex01_understandOfAlgoAndStruct;
 
 //순차 탐색 알고리즘
-
+//최악의 경우 시간 복잡도 		=> T(n) = n
+//빅-오 O(n)
 public class LinearSearch {
 	
 	public static void main(String[] args) {

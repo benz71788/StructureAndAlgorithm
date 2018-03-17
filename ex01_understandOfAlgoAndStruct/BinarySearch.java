@@ -8,6 +8,8 @@ package ex01_understandOfAlgoAndStruct;
 //혹은 +1 이 아니라 +200인 경우는 빅오를 통해 이해해야 한다.
 //결국 
 //=>		T(n) = log2(n) 
+
+//빅-오 O(logn)
 public class BinarySearch {
 	
 	public static void main(String[] args) {
